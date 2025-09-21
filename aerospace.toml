@@ -199,7 +199,7 @@ if.app-id = "com.googlecode.iterm2"
 run = "move-node-to-workspace T"
 
 [[on-window-detected]]
-if.app-id = "com.brave.Browser"
+if.app-id = "app.zen-browser.zen"
 run = "move-node-to-workspace W"
 
 [[on-window-detected]]
