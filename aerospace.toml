@@ -195,7 +195,7 @@ alt-shift-l = ['join-with right', 'mode main']
 # Check id
 # osascript -e 'id of app "Slack"'
 [[on-window-detected]]
-if.app-id = "com.mitchellh.ghostty"
+if.app-id = "com.googlecode.iterm2"
 run = "move-node-to-workspace T"
 
 [[on-window-detected]]
